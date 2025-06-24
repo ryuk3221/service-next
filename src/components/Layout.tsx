@@ -32,7 +32,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       <SEOHelmet />
       <div className="min-h-screen bg-gray-50">
         {/* Header */}
-        <header className="bg-white shadow-lg">
+        <header className="bg-white shadow-lg ">
           <div className="bg-red-600 text-white py-2">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="flex justify-between items-center text-sm">
